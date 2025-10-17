@@ -100,7 +100,7 @@ En la terminal del sistema escribe el siguiente comando
 python main.py
 
 ```
-##Ejemplo de uso:
+## Ejemplo de uso:
 ### Registro personas
 <img width="350" height="506" alt="image" src="https://github.com/user-attachments/assets/952dbec7-113c-44b7-b6ae-44d6182b7f3c" />
 <img width="377" height="307" alt="image" src="https://github.com/user-attachments/assets/11b77ed4-02c1-48f0-895b-ada9c29b4fa3" />
