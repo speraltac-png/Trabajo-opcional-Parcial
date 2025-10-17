@@ -81,8 +81,8 @@ Ejemplo del formato de almacenamiento:
 
 Clona este repositorio o copia el código:
 ```
-git clone https://github.com/tuusuario/biblioteca-unal.git
-cd biblioteca-unal
+git clone https://github.com/speraltac-png/Trabajo-opcional-Parcial.git
+
 ```
 Instala las dependencias necesarias:
 ```
