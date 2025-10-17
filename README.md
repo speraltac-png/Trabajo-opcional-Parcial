@@ -77,7 +77,7 @@ Ejemplo del formato de almacenamiento:
   ]
 }
 ```
-##instalacion 
+## instalacion 
 
 Clona este repositorio o copia el código:
 ```
