@@ -1,3 +1,7 @@
+#Nombre: Santiago Peralta Castellanos
+#Caso de uso: Biblioteca con Realtime Database
+
+
 import firebase_admin
 from firebase_admin import credentials, db
 
@@ -303,3 +307,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
