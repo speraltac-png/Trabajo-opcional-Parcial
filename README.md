@@ -114,8 +114,3 @@ python main.py
 <img width="744" height="291" alt="image" src="https://github.com/user-attachments/assets/17b86a6f-1a7d-48c8-b381-2bbfdec8a70d" />
 <img width="519" height="301" alt="image" src="https://github.com/user-attachments/assets/8dc5e1b1-3f51-4824-861b-58633bc79b05" />
 
-
-## Resumen de funciones
-
-- Puede **agregar**, **eliminar** y **mostrar libros** del catálogo.
-- Puede **listar usuarios registrados**.
