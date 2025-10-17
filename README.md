@@ -52,7 +52,7 @@ Ejemplo del formato de almacenamiento:
       "edad": "22",
       "documento": "12345",
       "clave": "abc123",
-      "nombre_usuario": "santi",
+      "nombre_usuario": "santiago",
       "libros_prestados": ["1984", "El origen de las especies"]
     }
   ],
