@@ -26,8 +26,8 @@ Este proyecto implementa un sistema de **gestión de biblioteca** en Python, uti
 
 ### Clase `Persona` (superclase)
 - Contiene datos comunes: nombre, apellido, edad, documento, clave y nombre de usuario.
-- Método `validar_usuario()` para verificar credenciales.
-- Método `hacerDiccionario()` básico para serializar datos comunes.
+- Método `validar_usuario()` para verificar si los datos de inicio de sesion coinciden con los registrados.
+- Método `hacerDiccionario()` para convertir el objeto en un tipo de información apta para firebase.
 
 ### Clase `Usuario` (hereda de `Persona`)
 - Puede **pedir** y **devolver libros**.
