@@ -11,7 +11,7 @@ Este proyecto implementa un sistema de **gestión de biblioteca** en Python, uti
 - Validación de credenciales mediante herencia (`Persona` → `Usuario` / `Administrador`).
 - Sin pérdida de información al cerrar el programa.
 
-## 🧩 Estructura de clases
+## Estructura de clases
 
 ### Clase `Biblioteca`
 - Administra usuarios, administradores y libros.
@@ -85,6 +85,38 @@ Clona este repositorio o copia el código:
 git clone https://github.com/tuusuario/biblioteca-unal.git
 cd biblioteca-unal
 ```
+Instala las dependencias necesarias:
+```
+pip install firebase-admin
+
+```
+Actualiza esta línea en el código con la ruta correcta a tu archivo:
+```
+cred = credentials.Certificate("/ruta/a/tu/archivo-credenciales.json")
+
+```
+## Ejecucion
+En la terminal del sistema escribe el siguiente comando
+```
+python main.py
+
+```
+##Ejemplo de uso:
+### Registro personas
+<img width="350" height="506" alt="image" src="https://github.com/user-attachments/assets/952dbec7-113c-44b7-b6ae-44d6182b7f3c" />
+<img width="377" height="307" alt="image" src="https://github.com/user-attachments/assets/11b77ed4-02c1-48f0-895b-ada9c29b4fa3" />
+<img width="377" height="307" alt="image" src="https://github.com/user-attachments/assets/7ee85831-5bde-4801-aa41-a9f3ee6c4c7f" />
+
+### Registro libros e inicio de sesion
+<img width="696" height="327" alt="image" src="https://github.com/user-attachments/assets/3316c00b-369c-4a59-8d91-3a1e7086a031" />
+<img width="334" height="225" alt="image" src="https://github.com/user-attachments/assets/fc7890ef-989d-475b-a79b-cf782a42ef5a" />
+
+## Prestamo de libros, información de usuarios y catalogo
+<img width="744" height="291" alt="image" src="https://github.com/user-attachments/assets/17b86a6f-1a7d-48c8-b381-2bbfdec8a70d" />
+<img width="519" height="301" alt="image" src="https://github.com/user-attachments/assets/8dc5e1b1-3f51-4824-861b-58633bc79b05" />
+
+
+## Resumen de funciones
 
 - Puede **agregar**, **eliminar** y **mostrar libros** del catálogo.
 - Puede **listar usuarios registrados**.
