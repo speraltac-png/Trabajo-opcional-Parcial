@@ -8,7 +8,6 @@ Este proyecto implementa un sistema de **gestión de biblioteca** en Python, uti
 - Administración de un **catálogo de libros**.
 - Préstamo y devolución de libros.
 - Persistencia de datos con **Firebase** (catálogo, usuarios, administradores y libros prestados).
-- Validación de credenciales mediante herencia (`Persona` → `Usuario` / `Administrador`).
 - Sin pérdida de información al cerrar el programa.
 
 ## Estructura de clases
